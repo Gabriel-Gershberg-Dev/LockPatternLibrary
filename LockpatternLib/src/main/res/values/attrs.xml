@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="DotGridView">
+        <attr name="dotCount" format="integer" />
+        <attr name="rows" format="integer" />
+        <attr name="columns" format="integer" />
+        <attr name="dotRadius" format="integer" />
+    </declare-styleable>
+</resources>
